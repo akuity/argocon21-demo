@@ -3,7 +3,6 @@ kind: Deployment
 metadata:
   name: guestbook-ui
 spec:
-  replicas: 3
   template:
     spec:
       affinity:

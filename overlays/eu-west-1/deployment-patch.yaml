@@ -3,4 +3,3 @@ kind: Deployment
 metadata:
   name: guestbook-ui
 spec:
-  replicas: 3
